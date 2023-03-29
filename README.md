@@ -30,7 +30,7 @@
 - [x] Task 19
 - [x] Task 20
 - [x] Task 21
-- [ ] Task 22
+- [x] Task 22
 - [ ] Task 23
 - [ ] Task 24
 - [ ] Task 25
