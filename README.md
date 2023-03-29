@@ -37,16 +37,16 @@
 - [ ] Task 26
 - [ ] Task 27
 - [ ] Task 28
-- [ ] Task 29
+- [x] Task 29
 - [ ] Task 30
 - [ ] Task 31
 - [ ] Task 32
 - [ ] Task 33
 - [ ] Task 34
-- [ ] Task 35
+- [x] Task 35
 - [ ] Task 36
 - [ ] Task 37
 - [ ] Task 38
 - [ ] Task 39
 - [ ] Task 40
-- [ ] Task 41
+- [x] Task 41
